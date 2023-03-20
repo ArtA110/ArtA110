@@ -39,4 +39,4 @@ Recently I've been studying Deep Learning focusing on Computer Vision.</p>
 <h3 align="left">States:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtA110)](https://github.com/anuraghazra/github-readme-stats)
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ArtA110&show_icons=true&line_height=40&include_all_commits=true&count_private=true)](https://github.com/ArtA110/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ArtA110&show_icons=true&line_height=40&include_all_commits=true&count_private=true)](https://github.com/ArtA110/)
