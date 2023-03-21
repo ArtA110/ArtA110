@@ -35,8 +35,8 @@ Recently I've been studying Deep Learning focusing on Computer Vision.</p>
 <img src="https://seeklogo.com/images/K/keras-logo-6B06C2FC2D-seeklogo.com.png" title="Keras" alt="keras" width="26" height="26"/>
 <img src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" title="TensorFlow" alt="tensorflow" width="26" height="26"/>
 <img src="https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png" title="NumPy" alt="numpy" width="26" height="26"/>
-<img src="https://seeklogo.com/images/P/pandas-logo-56829C6445-seeklogo.com.png" title="Pandas" alt="pandas" width="26" height="26"/>
-  <img src="https://seeklogo.com/images/M/matplotlib-logo-AEB3DC9BB4-seeklogo.com.png" title="matplotlib" alt="matplotlib" width="26" height="26"/>
+<img src="https://seeklogo.com/images/P/pandas-logo-776F6D45BB-seeklogo.com.png" title="Pandas" alt="pandas" width="26" height="26"/>
+  <img src="https://seeklogo.com/images/M/matplotlib-logo-7676870AC0-seeklogo.com.png" title="matplotlib" alt="matplotlib" width="26" height="26"/>
 </p>
 
 <h3 align="left">States:</h3>
