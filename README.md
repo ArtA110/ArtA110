@@ -41,5 +41,5 @@
 <h3 align="left">My GitHub Stats:</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtA110)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ArtA110&show_icons=true&line_height=40&include_all_commits=true&count_private=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtA110)](https://github.com/anuraghazra/github-readme-stats)
 
